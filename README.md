@@ -27,4 +27,4 @@
 ---
 
 📌 **Desarrollado por:** *[SPECTERMAN LUIS OMAR]*  
-📌 **Repositorio:** [https://github.com/SpectermanLuis/ALURA-CHALLENGE-AMIGO-SECRETO.git]  
+📌 **Repositorio:** [https://github.com/SpectermanLuis/ALURA-GRUPO9-CHALLENGE_AMIGO_SECRETO.git]  
